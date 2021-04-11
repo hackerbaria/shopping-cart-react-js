@@ -8,7 +8,7 @@ export class DataProvider extends Component {
         products: [
             {
                 "_id": "1",
-                "title": "Nike Shoes 01",
+                "title": "Apple MacBook Pro 13 Touch Bar M1 16GB 256GB 2020",
                 "src": "https://macbook.haloshop.vn/image/cache/data/products/apple/macbook/macbook-pro-2020-13-inch-chip-m1-gray-00-700x700.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -18,7 +18,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "2",
-                "title": "Nike Shoes 02",
+                "title": "Apple MacBook Pro 13 inch 128GB MPXR2",
                 "src": "https://macbook.haloshop.vn/image/cache/data/products/apple/macbook/macbook-pro-2020-13-inch-chip-m1-gray-00-700x700.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -28,7 +28,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "3",
-                "title": "Nike Shoes 03",
+                "title": "Apple iPad Pro 12.9 Wifi 256 GB 2020",
                 "src": "https://stcv4.hnammobile.com/uploads/products/colors/2/apple-ipad-pro-12-9-wifi-256-gb-2020-01585099509.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -38,7 +38,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "4",
-                "title": "Nike Shoes 04",
+                "title": "Apple MacBook Pro 13 inch 128GB MPXR2",
                 "src": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_1__7.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -48,7 +48,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "5",
-                "title": "Nike Shoes 05",
+                "title": "Apple MacBook Pro 13 inch 128GB MPXR2",
                 "src": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_1__7.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -58,7 +58,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "6",
-                "title": "Nike Shoes 06",
+                "title": "Apple MacBook Pro 13 inch 128GB MPXR2",
                 "src": "https://macbook.haloshop.vn/image/cache/data/products/apple/macbook/macbook-pro-2020-13-inch-chip-m1-gray-00-700x700.jpg",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
